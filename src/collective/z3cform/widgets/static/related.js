@@ -69,11 +69,7 @@ if(jQuery) (function($){
 
 (function ($) {
    $.fn.liveDraggable = function (opts) {
-<<<<<<< 115b0639dfe81fe654621b440c1dafe924808595
-      // disabled because causing ui problems? //
-=======
       /// disabled because causing ui problems? ///
->>>>>>> disabled dragable function ...
       // $('body').on('mouseover', $(this), function() {
       //    if (!$(this).data("init")) {
       //       $(this).data("init", true).draggable(opts);
